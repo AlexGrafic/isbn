@@ -1,7 +1,8 @@
-# ISBN PHP library [![Build Status](https://travis-ci.org/Fale/isbn.png?branch=master)](https://travis-ci.org/Fale/isbn) #
+# CODEIGNITER 3.0 ISBN PHP library [![Build Status](https://travis-ci.org/Fale/isbn.png?branch=master)](https://travis-ci.org/Fale/isbn) #
 This library is develop to provide all tools needed to handle ISBN (both ISBN-10 and ISBN-13) codes to PHP developers.
 
 ## IMPORTANT NOTICE ##
+This library was forked from ISBN PHP library [![Build Status](https://travis-ci.org/Fale/isbn.png?branch=master)](https://travis-ci.org/Fale/isbn)
 `dev-master` could be pretty different from the **3.x** version. If you want to stay with version **3.x**, please use `3.0.0` or `3.0.x-dev` or `3.x-dev`.
 
 ## Initialization ##
